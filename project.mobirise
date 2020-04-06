@@ -352,7 +352,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -371,7 +371,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/b1758eae90aac74f533f9ecdeca29bf5-1280x853.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
