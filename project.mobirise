@@ -340,7 +340,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/fe068f50-d7c6-11e9-aa41-1be24cec0e2d-1920x1036.jpeg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -400,7 +400,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/b1758eae90aac74f533f9ecdeca29bf5-1280x853.jpeg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -607,7 +607,7 @@
             }
           },
           "_name": "gallery4",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полная ширина\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#333333\">\n        <input type=\"checkbox\" title=\"Градиентное наложение\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Наложение  Цвет 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#efefef\">\n        \n        <header>Галерея</header>\n        <input type=\"gallery\" subtype=\"flex\" title=\"Галерея\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-count=\"2\" mbr-gallery-first-count=\"3\" mbr-gallery-second-count=\"3\" mbr-gallery-third-count=\"2\" mbr-gallery-fourth-count=\"2\" mbr-gallery-flex-vertical mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Полная ширина\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"4\" inline>\n        <input type=\"range\" title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#333333\">\n        <input type=\"checkbox\" title=\"Градиентное наложение\" name=\"gradOverlay\">\n        <input type=\"color\" title=\"Наложение  Цвет 2\" name=\"overlayColor2\" value=\"#45505b\" condition=\"gradOverlay\">\n        <input type=\"range\" title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" inline>\n        <input type=\"color\" title=\"Цвет фона\" name=\"bgColor\" value=\"#efefef\">\n        \n        <header>Галерея</header>\n        <input type=\"gallery\" subtype=\"flex\" title=\"Галерея\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"1\" mbr-gallery-count=\"2\" mbr-gallery-first-count=\"2\" mbr-gallery-second-count=\"3\" mbr-gallery-third-count=\"2\" mbr-gallery-fourth-count=\"2\" mbr-gallery-flex-vertical mbr-gallery-show-bullets></div>\n    </div>\n\n</section>",
           "_cid": "rVuufgErP6",
           "_protectedParams": [
             "gallery"
