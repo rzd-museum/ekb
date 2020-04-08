@@ -27,19 +27,19 @@ body {
 }
 .display-5 {
   font-family: 'RussianRail-G-Pro-Medium_39010';
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   font-display: swap;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.88rem;
+  font-size: 2.4rem;
 }
 .display-7 {
   font-family: 'RussianRail-G-Pro-Medium_39010';
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.2rem;
+    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -527,11 +527,11 @@ a:hover {
 }
 .form-control {
   font-family: 'RussianRail-G-Pro-Medium_39010';
-  font-size: 1.2rem;
+  font-size: 1rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 1.6rem;
 }
 blockquote {
   border-color: #e21a1a;
@@ -620,6 +620,8 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rVy6xjkVb4 {
+  padding-top: 120px;
+  padding-bottom: 90px;
   background: linear-gradient(45deg, #e21a1a, #232323);
 }
 .cid-rVy6xjkVb4 .mbr-text,
@@ -640,6 +642,10 @@ section.lazy-placeholder:after {
     padding: 1rem !important;
   }
 }
+.cid-rVxTy66zul .mbr-text,
+.cid-rVxTy66zul .mbr-section-btn {
+  text-align: left;
+}
 .cid-rVy4QzVcIS {
   background-image: url("../../../assets/images/2nyypnjdpwq-2000x1334-800x534.jpg");
 }
@@ -654,6 +660,10 @@ section.lazy-placeholder:after {
     padding: 1rem !important;
   }
 }
+.cid-rVy4QzVcIS .mbr-text,
+.cid-rVy4QzVcIS .mbr-section-btn {
+  text-align: left;
+}
 .cid-rVy50IMtku {
   background-image: url("../../../assets/images/b1758eae90aac74f533f9ecdeca29bf5-1280x853.jpeg");
 }
@@ -667,6 +677,10 @@ section.lazy-placeholder:after {
   .cid-rVy50IMtku .media-container-column {
     padding: 1rem !important;
   }
+}
+.cid-rVy50IMtku .mbr-text,
+.cid-rVy50IMtku .mbr-section-btn {
+  text-align: left;
 }
 .cid-rVuufgErP6 {
   padding-top: 135px;
