@@ -619,6 +619,19 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
+.cid-rVG4mzoEsy {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rVG4mzoEsy .mbr-text,
+.cid-rVG4mzoEsy blockquote {
+  color: #767676;
+}
+.cid-rVG4mzoEsy .mbr-text {
+  color: #ffffff;
+  text-align: right;
+}
 .cid-rVCEOM4o68 .modal-body .close {
   background: #1b1b1b;
 }
