@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Музей РЖД",
-    "currentPage": "page3.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -412,7 +412,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -432,7 +432,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -1798,7 +1798,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -1818,7 +1818,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для Вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               }
             ]
@@ -3062,7 +3062,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -3082,7 +3082,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для Вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               }
             ]
@@ -4356,7 +4356,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -4376,7 +4376,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для Вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               }
             ]
