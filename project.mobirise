@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Музей РЖД",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -412,7 +412,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -432,7 +432,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -1762,8 +1762,28 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/506341-1601x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/b1758eae90aac74f533f9ecdeca29bf5-1280x853.jpeg",
                 "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Виртуальная экскурсия по памятнику-барельефу «Железные дороги в истории России»&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Представляем историю государства и этапы становления железнодорожного транспорта с начала    XIX века до современности.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#content1-3s\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "overlayOpacity": "0.6"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/506341-1601x900.jpg",
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -1778,7 +1798,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -1798,27 +1818,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для Вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
-                "overlayOpacity": "0.6"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/b1758eae90aac74f533f9ecdeca29bf5-1280x853.jpeg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-5",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "Виртуальная экскурсия по памятнику-барельефу «Железные дороги в истории России»&nbsp;",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Представляем историю государства и этапы становления железнодорожного транспорта с начала    XIX века до современности.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header5-38\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               }
             ]
@@ -1847,72 +1847,6 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rVCIhPhrCA",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "alias": false,
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            ".card-box": {
-              "padding": "0 2rem"
-            },
-            ".mbr-section-btn": {
-              "padding-top": "1rem",
-              "a": {
-                "margin-top": "1rem",
-                "margin-bottom": "0"
-              }
-            },
-            "h4": {
-              "font-weight": "500",
-              "margin-bottom": "0",
-              "text-align": "left",
-              "padding-top": "2rem"
-            },
-            "p": {
-              "margin-bottom": "0",
-              "text-align": "left",
-              "padding-top": "1.5rem",
-              "& when not (@showTitle)": {
-                "padding-top": "2rem"
-              }
-            },
-            ".mbr-text": {
-              "color": "#767676"
-            },
-            ".card-wrapper": {
-              "height": "100%",
-              "padding-bottom": "2rem",
-              "background": "@cardsBg",
-              "box-shadow": "0px 0px 0px 0px rgba(0, 0, 0, 0)",
-              "transition": "box-shadow 0.3s",
-              "& when not (@showTitle)": {
-                "& when not (@showText)": {
-                  "& when not (@showButtons)": {
-                    "padding-bottom": "0"
-                  }
-                }
-              },
-              "&:hover": {
-                "box-shadow": "0px 0px 30px 0px rgba(0, 0, 0, 0.05)",
-                "transition": "box-shadow 0.3s"
-              }
-            }
-          },
-          "_name": "features3",
-          "_customHTML": "<section class=\"features3\" group=\"Features\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"6\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"4\">\n\n        <input type=\"checkbox\" title=\"Show Image\" name=\"showImage\" checked>\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Карты - Фон\" name=\"cardsBg\" value=\"#ffffff\">\n        <select title=\"Число карт\" name=\"cardsAmount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\" selected>3</option>\n            <option value=\"4\">4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"../_images/background5.jpg\" parallax>\n            <input type=\"color\" title=\"Цвет фона\" value=\"#efefef\" selected>\n            <input type=\"video\" title=\"Фоновое видео\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#efefef\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.8\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"media-container-row\" mbr-cards=\"bootstrap\">\n            <div class=\"card p-3 col-12 col-md-6\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <a href=\"page8.html#video2-4k\"><img src=\"@PROJECT_PATH@/assets/images/1-676x345.png\" alt=\"Mobirise\" title></a>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Название видеоэкскурсии 1</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Mobirise - простой конструктор сайтов. Поместите элементы сайта на свою страницу, добавьте контент и стиль на свой вкус.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"page8.html#video2-4k\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>Смотреть&nbsp;</a></div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 1\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <a href=\"page8.html#video2-4k\"><img src=\"@PROJECT_PATH@/assets/images/2-676x350.png\" alt=\"Mobirise\" title></a>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Название видеоэкскурсии 2</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Все сайты, сделанные в Mobirise, адаптивны. Вам не нужно создавать специальную мобильную версию вашего сайта.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"page8.html#video2-4k\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>\n                            Смотреть</a></div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6\" mbr-if=\"cardsAmount > 2\" mbr-class=\"{'col-lg-3': cardsAmount == '4',\n                             'col-lg-4': cardsAmount == '3'}\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <a href=\"page8.html#video2-4k\"><img src=\"@PROJECT_PATH@/assets/images/3-676x337.png\" alt=\"Mobirise\" title></a>\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">Название видеоэкскурсии 3</h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                            Mobirise предлагает много блоков сайта в нескольких темах, и хотя эти блоки сделаны шаблонами, они гибко настраиваются.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"page8.html#video2-4k\" class=\"btn btn-primary\" data-app-placeholder=\"Введите Текст\"><span class=\"socicon socicon-youtube mbr-iconfont mbr-iconfont-btn\"></span>\n                            Смотреть</a></div>\n                </div>\n            </div>\n\n            <div class=\"card p-3 col-12 col-md-6 col-lg-3\" mbr-if=\"cardsAmount > 3\">\n                <div class=\"card-wrapper\">\n                    <div class=\"card-img\" mbr-if=\"showImage\">\n                        <img src=\"../_images/background4.jpg\" alt=\"Mobirise\">\n                    </div>\n                    <div class=\"card-box\">\n                        <h4 class=\"card-title mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showTitle\" data-app-selector=\".card-title\">\n                            Безлимитно\n                        </h4>\n                        <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" mbr-if=\"showText\" data-app-selector=\".mbr-text\">\n                           Mobirise дает вам свободу разрабатывать столько сайтов, сколько вам нравится, при том что это настольное приложение.\n                        </p>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a href=\"https://mobirise.co\" class=\"btn btn-primary\">\n                            Подробнее\n                        </a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rVIzBrwyfo",
-          "_anchor": "features3-3v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
@@ -3092,6 +3026,26 @@
             "slides__showBullets": true,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/b1758eae90aac74f533f9ecdeca29bf5-1280x853.jpeg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-5",
+                "customStyle2": "display-7",
+                "customStyle3": "display-4",
+                "alt": "",
+                "title": "",
+                "textTitle": "Виртуальная экскурсия по памятнику-барельефу «Железные дороги в истории России»&nbsp;",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Представляем историю государства и этапы становления железнодорожного транспорта с начала    XIX века до современности.<br>",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#content1-3s\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "overlayOpacity": "0.6"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/506341-1601x900.jpg",
                 "active": false,
                 "showButtons": true,
@@ -3108,12 +3062,12 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/maxresdefault-1280x720.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -3128,27 +3082,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для Вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
-                "overlayOpacity": "0.6"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/b1758eae90aac74f533f9ecdeca29bf5-1280x853.jpeg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "customStyle1": "display-5",
-                "customStyle2": "display-7",
-                "customStyle3": "display-4",
-                "alt": "",
-                "title": "",
-                "textTitle": "Виртуальная экскурсия по памятнику-барельефу «Железные дороги в истории России»&nbsp;",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Представляем историю государства и этапы становления железнодорожного транспорта с начала    XIX века до современности.<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header5-38\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               }
             ]
@@ -4422,7 +4356,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page1.html#header5-34\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
@@ -4442,7 +4376,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Мы сохранили для Вас этот уникальный мир узкоколейки и рады пригласить к нам в гости.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Введите Текст\" href=\"page2.html#header5-36\" data-toolbar=\"-mbrBtnMove\">ВИДЕО ПОЯВИТСЯ СКОРО</a>  ",
                 "overlayOpacity": "0.6"
               }
             ]
