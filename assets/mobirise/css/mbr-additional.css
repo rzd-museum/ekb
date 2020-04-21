@@ -2927,18 +2927,16 @@ section.lazy-placeholder:after {
 .cid-rVCJcyDii0 .mbr-section-btn {
   text-align: left;
 }
-.cid-rVaqLpIZzJ {
-  background: #efefef;
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-rWMUTlYNk4 {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #efefef;
 }
-.cid-rVaqLpIZzJ .video-block {
-  margin: auto;
+.cid-rWMUTlYNk4 .mbr-section-subtitle {
+  color: #333333;
 }
-@media (max-width: 768px) {
-  .cid-rVaqLpIZzJ .video-block {
-    width: 100% !important;
-  }
+.cid-rWMUTlYNk4 .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-rVzpoU0kbH {
   padding-top: 15px;
