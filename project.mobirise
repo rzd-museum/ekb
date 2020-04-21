@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Музей РЖД",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -452,7 +452,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "«Железные дороги в истории России». Представляем историю государства и этапы становления железнодорожного транспорта с начала    XIX века до современности.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header5-38\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#content1-3s\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a> ",
                 "overlayOpacity": "0.6"
               }
             ]
@@ -4336,7 +4336,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "Представляем историю государства и этапы становления железнодорожного транспорта с начала    XIX века до современности.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header5-38\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#content1-3s\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
