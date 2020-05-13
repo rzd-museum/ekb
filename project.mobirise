@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Музей РЖД",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1778,11 +1778,11 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "В короткометражных видео вы узнаете все об истории развития Свердловской магистрали.&nbsp;<br>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"page3.html#header5-38\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Введите Текст\" href=\"index.html#header5-32\" data-toolbar=\"-mbrBtnMove\">СМОТРЕТЬ</a>  ",
                 "overlayOpacity": "0.6"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1266637438716368-69fa-676x4504.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/1266637438716368-69fa-676x4505.jpeg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
