@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Музей РЖД",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -78,7 +78,8 @@
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/favicons-16x16.png",
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "google-analytics": "<!-- Yandex.Metrika counter -->\n<script type=\"text/javascript\" >\n   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};\n   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})\n   (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\");\n\n   ym(64607857, \"init\", {\n        clickmap:true,\n        trackLinks:true,\n        accurateTrackBounce:true,\n        webvisor:true\n   });\n</script>\n<noscript><div><img src=\"https://mc.yandex.ru/watch/64607857\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\n<!-- /Yandex.Metrika counter -->"
   },
   "pages": {
     "index.html": {
@@ -1782,7 +1783,7 @@
                 "overlayOpacity": "0.6"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/1266637438716368-69fa-676x4504.jpeg",
+                "image": "@PROJECT_PATH@/assets/images/1266637438716368-69fa-676x4505.jpeg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
