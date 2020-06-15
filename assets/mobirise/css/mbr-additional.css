@@ -92,7 +92,7 @@ body {
   background-color: #e68744 !important;
 }
 .bg-info {
-  background-color: #465052 !important;
+  background-color: #149dcc !important;
 }
 .bg-warning {
   background-color: #767676 !important;
@@ -142,8 +142,8 @@ body {
 }
 .btn-info,
 .btn-info:active {
-  background-color: #465052 !important;
-  border-color: #465052 !important;
+  background-color: #149dcc !important;
+  border-color: #149dcc !important;
   color: #ffffff !important;
 }
 .btn-info:hover,
@@ -151,14 +151,14 @@ body {
 .btn-info.focus,
 .btn-info.active {
   color: #ffffff !important;
-  background-color: #232829 !important;
-  border-color: #232829 !important;
+  background-color: #0d6786 !important;
+  border-color: #0d6786 !important;
 }
 .btn-info.disabled,
 .btn-info:disabled {
   color: #ffffff !important;
-  background-color: #232829 !important;
-  border-color: #232829 !important;
+  background-color: #0d6786 !important;
+  border-color: #0d6786 !important;
 }
 .btn-success,
 .btn-success:active {
@@ -306,22 +306,22 @@ body {
 .btn-info-outline,
 .btn-info-outline:active {
   background: none;
-  border-color: #171a1b;
-  color: #171a1b;
+  border-color: #0b566f;
+  color: #0b566f;
 }
 .btn-info-outline:hover,
 .btn-info-outline:focus,
 .btn-info-outline.focus,
 .btn-info-outline.active {
   color: #ffffff;
-  background-color: #465052;
-  border-color: #465052;
+  background-color: #149dcc;
+  border-color: #149dcc;
 }
 .btn-info-outline.disabled,
 .btn-info-outline:disabled {
   color: #ffffff !important;
-  background-color: #465052 !important;
-  border-color: #465052 !important;
+  background-color: #149dcc !important;
+  border-color: #149dcc !important;
 }
 .btn-success-outline,
 .btn-success-outline:active {
@@ -427,7 +427,7 @@ body {
   color: #e68744 !important;
 }
 .text-info {
-  color: #465052 !important;
+  color: #149dcc !important;
 }
 .text-warning {
   color: #767676 !important;
@@ -455,7 +455,7 @@ a.text-success:focus {
 }
 a.text-info:hover,
 a.text-info:focus {
-  color: #171a1b !important;
+  color: #0b566f !important;
 }
 a.text-warning:hover,
 a.text-warning:focus {
@@ -477,7 +477,7 @@ a.text-black:focus {
   background-color: #70c770;
 }
 .alert-info {
-  background-color: #465052;
+  background-color: #149dcc;
 }
 .alert-warning {
   background-color: #767676;
@@ -511,7 +511,7 @@ a:hover {
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
-  color: #bac2c4;
+  color: #b4e6f8;
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
@@ -879,7 +879,7 @@ section.lazy-placeholder:after {
 .cid-rVCFDUC077 {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #e21a1a, #232323);
+  background: linear-gradient(45deg, #cb301e, #cb301e);
 }
 .cid-rVCFDUC077 .mbr-text,
 .cid-rVCFDUC077 .mbr-section-btn {
@@ -1922,7 +1922,7 @@ section.lazy-placeholder:after {
 .cid-rVCIhPhrCA {
   padding-top: 120px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #e21a1a, #232323);
+  background: linear-gradient(45deg, #cb301e, #cb301e);
 }
 .cid-rVCIhPhrCA .mbr-text,
 .cid-rVCIhPhrCA .mbr-section-btn {
@@ -3021,7 +3021,7 @@ section.lazy-placeholder:after {
 .cid-rVCJcyDii0 {
   padding-top: 120px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #e21a1a, #232323);
+  background: linear-gradient(45deg, #cb301e, #cb301e);
 }
 .cid-rVCJcyDii0 .mbr-text,
 .cid-rVCJcyDii0 .mbr-section-btn {
@@ -4040,7 +4040,7 @@ section.lazy-placeholder:after {
 .cid-rVCJGNge90 {
   padding-top: 120px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #e21a1a, #232323);
+  background: linear-gradient(45deg, #cb301e, #cb301e);
 }
 .cid-rVCJGNge90 .mbr-text,
 .cid-rVCJGNge90 .mbr-section-btn {
@@ -7178,7 +7178,7 @@ section.lazy-placeholder:after {
 .cid-rYe6LSQjmT {
   padding-top: 120px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #e21a1a, #232323);
+  background: linear-gradient(45deg, #cb301e, #cb301e);
 }
 .cid-rYe6LSQjmT .mbr-text,
 .cid-rYe6LSQjmT .mbr-section-btn {
