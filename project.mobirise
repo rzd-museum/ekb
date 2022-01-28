@@ -603,7 +603,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"500\" align=\"center\" frameborder=\"0\">",
+            "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"500\" align=\"center\" frameborder=\"0\">\n</iframe>",
             "hideOnPublish": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -611,12 +611,12 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"500\" align=\"center\" frameborder=\"0\">",
+          "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"500\" align=\"center\" frameborder=\"0\">\n</iframe>",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
