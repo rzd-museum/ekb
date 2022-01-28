@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Музей РЖД",
-    "currentPage": "page7.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -68,8 +68,8 @@
         "file": "@PROJECT_PATH@/fonts/RussianRail-G-Pro-Medium_39010/font.ttf"
       }
     ],
-    "uniqCompNum": 236,
-    "versionPublish": "5.3.10",
+    "uniqCompNum": 239,
+    "versionPublish": "5.5.8",
     "imageResize": true,
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
@@ -7748,6 +7748,29 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_params": {
+            "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"500\" align=\"center\" frameborder=\"0\">",
+            "hideOnPublish": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"500\" align=\"center\" frameborder=\"0\">",
+          "alias": "witsec-custom-html",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "witsec-custom-html-block",
+          "_anchor": "witsec-custom-html-block-6m"
         },
         {
           "alias": false,
