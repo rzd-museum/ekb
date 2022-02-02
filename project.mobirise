@@ -10764,15 +10764,15 @@
           "_sourceTheme": "mobirise4",
           "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Сверху\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Снизу\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n\n        <input type=\"checkbox\" title=\"Название\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Подзаголовок\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Текст\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Кнопки\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Фоновое изображение\" value=\"@PROJECT_PATH@/assets/images/3746-676x450.jpg\">\n            <input type=\"color\" title=\"Цвет фона\" value=\"#e21a1a\" selected>\n            <input type=\"video\" title=\"Фоновое видео\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Наложение\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Цвет наложения\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Прозрачность\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\"><br><br><br>Виртуальный тур по Детской Железной дороге</h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\">\n                    Заголовок с фоновым изображением и эффектом параллакса\n                </h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Создайте свой проект с утонченным дизайном и  возможностью коррекции кода\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobiri.se\">ПОДРОБНЕЕ</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobiri.se\">ДЕМО</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sVO7cW535z",
+          "_anchor": "content5-6v",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-6v"
+          "_params": {}
         },
         {
           "_params": {
-            "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"700\" align=\"center\" frameborder=\"0\">\n</iframe>",
+            "HTMLCode": "<iframe src=\"https://rzd-museum.github.io/panorama/index.html\" width=\"100%\" height=\"700\" align=\"center\" frameborder=\"0\">\n</iframe>",
             "hideOnPublish": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -10785,7 +10785,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<iframe src=\"http://www.p611518.ihc.xyz/index.html\" width=\"100%\" height=\"700\" align=\"center\" frameborder=\"0\">\n</iframe>",
+          "HTMLCode": "<iframe src=\"https://rzd-museum.github.io/panorama/index.html\" width=\"100%\" height=\"700\" align=\"center\" frameborder=\"0\">\n</iframe>",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
